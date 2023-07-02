@@ -8,7 +8,7 @@ This challenge accomplishes the following main tasks:
 * Create additional user input areas in the Streamlit application. These input areas should collect the relevant information for each financial record that you’ll store in the PyChain ledger.
 * Test PyChain ledger.
 
-![PyChain](PyChain.GIF)
+![PyChain](PyChain.gif)
 
 ## Technologies
 
